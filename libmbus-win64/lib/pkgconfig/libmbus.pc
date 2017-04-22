@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libmbus
+Description: Open source M-bus (Meter-Bus) library.
+Requires: 
+Version: 0.8.0
+URL: http://www.rscada.se/libmbus/
+Libs: -L${libdir} -lmbus -lm
+Cflags: -I${includedir}
