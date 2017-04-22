@@ -15,15 +15,15 @@ For more information see http://www.rscada.se/libmbus
   ---------------------------------------- 
 
 On Linux:
-	- Download libmbus software from https://github.com/rscada/libmbus into a _Linux_ box.
-	- Remove "make" and "configure" calls from build.sh and execute that.
+- Download libmbus software from https://github.com/rscada/libmbus into a _Linux_ box
+- Remove "make" and "configure" calls from build.sh and execute that
 
 On Windows:
-	- Go to http://www.msys2.org/ download MSYS2 and install.
-	- Open MSYS2 console, install gcc, automake, autoconf, m4, libtool with pacman.
-	- Copy the directory from Linux into your Windows box.
-	- Go into the directory an do ./configure && make && DESTDIR=/C/libmbus-win64 make install
-	- For running exuectables you will need msys-2.0.dll from your MSYS2 installation directory.
+- Go to http://www.msys2.org/ download MSYS2 and install
+- Open MSYS2 console, install gcc, automake, autoconf, m4, libtool with pacman
+- Copy the directory from Linux into your Windows box
+- Go into the directory an do ./configure && make && DESTDIR=/C/libmbus-win64 make install
+- For running exuectables you will need msys-2.0.dll from your MSYS2 installation directory
 
   License
   -------
