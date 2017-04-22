@@ -31,5 +31,5 @@ On Windows:
 Please see https://github.com/rscada/libmbus/blob/master/COPYING
 
 I don't claim any rights on the software that is a property of Raditex Control and their contributors.
-Binaries offered on this page are compilation of libmbus only without any changes on original software.
+Binary files offered on this page are only the compilation of libmbus without any changes on original software.
 Use these at your own risk.
