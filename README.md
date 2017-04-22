@@ -2,11 +2,7 @@
 
 libmbus is an open source library for the M-bus (Meter-Bus) protocol.
 
-The Meter-Bus is a standard for reading out meter data from electricity meters,
-heat meters, gas meters, etc. The M-bus standard deals with both the electrical
-signals on the M-Bus, and the protocol and data format used in transmissions on
-the M-Bus. The role of libmbus is to decode/encode M-bus data, and to handle
-the communication with M-Bus devices.
+The Meter-Bus is a standard for reading out meter data from electricity meters, heat meters, gas meters, etc. The M-bus standard deals with both the electrical signals on the M-Bus, and the protocol and data format used in transmissions on the M-Bus. The role of libmbus is to decode/encode M-bus data, and to handle the communication with M-Bus devices.
 
 For more information see http://www.rscada.se/libmbus
 
@@ -30,6 +26,4 @@ On Windows:
 
 Please see https://github.com/rscada/libmbus/blob/master/COPYING
 
-I don't claim any rights on the software that is a property of Raditex Control and their contributors.
-Binary files offered on this page are only the compilation of libmbus without any changes on original software.
-Use these at your own risk.
+I don't claim any rights on the software that is a property of Raditex Control and their contributors. Binary files offered on this page has been created without modifying original software in hope to be useful. Use these at your own risk.
