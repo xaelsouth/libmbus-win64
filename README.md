@@ -10,7 +10,7 @@ For more information see http://www.rscada.se/libmbus
   How libmbus has been compiled on Windows
   ---------------------------------------- 
 
-On Linux:
+You compile for Windows, but the first step is to make on Linux, because MSYS2 installation does not support aclocal properly:
 - Download libmbus software from https://github.com/rscada/libmbus into a _Linux_ box
 - Remove "make" and "configure" calls from build.sh and execute that
 
@@ -26,4 +26,4 @@ On Windows:
 
 Please see https://github.com/rscada/libmbus/blob/master/COPYING
 
-I don't claim any rights on the software that is a property of Raditex Control and their contributors. Binary files offered on this page has been created without modifying original software in hope to be useful. Use these at your own risk.
+I don't claim any rights on the software that is a property of Raditex Control and their contributors. Binary files offered on this page have been created without modifying original software in hope to be useful. Use these at your own risk.
